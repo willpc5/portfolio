@@ -53,7 +53,8 @@ body {
 .avatar {
   border-radius: 100%;
   border: 2px solid #00ff00;
-  width: 130px;
+  width: 145px;
+  height: 155px;
   margin-top: 25px;
 }
 
@@ -273,3 +274,5 @@ body {
   font-size: 85%;
   opacity: 0.5;
 }
+
+/*Fim do Conteúdo Principal do Site*/
