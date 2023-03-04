@@ -3,3 +3,18 @@
     width: 62vw;
   }
 }
+
+@media (max-width: 980px) {
+  .cabecalho {
+    gap: 60%;
+  }
+
+  .conteudo-principal {
+    width: 50vw;
+  }
+
+  .conteudo-principal .projetos {
+    flex-direction: column;
+  }
+
+}
