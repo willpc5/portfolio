@@ -18,3 +18,48 @@
   }
 
 }
+
+@media (max-width: 800px) {
+  .cabecalho {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .conteudo-principal {
+    width: 100%;
+  }
+
+  .cabecalho {
+    display: flex;
+    flex-direction: row;
+    gap: 66%;
+  }
+
+  .conteudo-lateral .perfil {
+    width: 100%;
+  }
+
+  .conteudo-lateral .info {
+    width: 100%;
+  }
+
+  .conteudo-lateral .tecnologias {
+    width: 100%;
+  }
+
+  .conteudo-lateral .experiencia {
+    width: 100%;
+  }
+
+  .conteudo-lateral .educacao {
+    width: 100%;
+  }
+}
