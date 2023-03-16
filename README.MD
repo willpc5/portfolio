@@ -12,7 +12,7 @@ Meu Portifolio como Programador <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Portfolio" src="./assets/images/portfolio.png" width="100%">
+  <img alt="projeto Portfolio" src="./assets/images/portfolio.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
